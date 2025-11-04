@@ -954,6 +954,11 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
+  "MABEL": {
+    "name": "Mabilung Energy Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "MBLD2085": {
     "name": "10.25% Machhapuchhre Bank Debenture 2085",
     "sector": "Commercial Banks",
