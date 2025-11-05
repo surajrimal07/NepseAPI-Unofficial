@@ -659,6 +659,11 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
+  "HLICF": {
+    "name": "HLI Large Cap Fund",
+    "sector": "Life Insurance",
+    "internalSector": "Life Insurance"
+  },
   "HPPL": {
     "name": "Himalayan Power Partner Ltd.",
     "sector": "Hydro Power",
