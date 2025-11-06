@@ -324,6 +324,11 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
+  "DHEL": {
+    "name": "Daramkhola Hydro Energy Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "DDBL": {
     "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
     "sector": "Microfinance",
@@ -1466,6 +1471,11 @@
   },
   "SBID89": {
     "name": "9% Nepal SBI Bank Rinpatra 2089",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
+  "SBID2090": {
+    "name": "7% Nepal SBI Bank Debenture 2090",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
