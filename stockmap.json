@@ -1909,6 +1909,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "SAGAR": {
+    "name": "Sagar Distillery Limited",
+    "sector": "Manufacturing And Processing",
+    "internalSector": "Manufacturing And Pr."
+  },
   "SMJC": {
     "name": "Sagarmatha Jalabidhyut Company Limited",
     "sector": "Hydro Power",
