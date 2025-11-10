@@ -179,6 +179,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "BUNGAL": {
+    "name": "Bungal Hydro Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "BPCL": {
     "name": "Butwal Power Company Limited",
     "sector": "Hydro Power",
