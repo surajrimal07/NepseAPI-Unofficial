@@ -109,6 +109,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "BANDIPUR": {
+    "name": "Bandipur Cablecar and Tourism Limited",
+    "sector": "Hotels And Tourism",
+    "internalSector": "Hotels And Tourism"
+  },
   "BOKD86": {
     "name": "8.5% BOK Debenture 2086",
     "sector": "Commercial Banks",
@@ -2119,6 +2124,11 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
+  "SHINED": {
+    "name": "Shine Resunga Debenture",
+    "sector": "Development Banks",
+    "internalSector": "Development Bank Ind."
+  },
   "SHINEP": {
     "name": "Shine Resunga Development Bank Ltd. Promoter Share",
     "sector": "Promoter Share",
@@ -2358,6 +2368,11 @@
     "name": "Swarojgar Laghubitta Bittiya Sanstha Ltd. Promoter Share",
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
+  },
+  "SWASTIK": {
+    "name": "Swastik Laghubitta Bittiya Sanstha Limited",
+    "sector": "Microfinance",
+    "internalSector": "Microfinance Index"
   },
   "SGHC": {
     "name": "Swet-Ganga Hydropower & Construction Limited ",
