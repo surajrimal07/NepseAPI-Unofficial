@@ -1259,6 +1259,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "NABILD2089": {
+    "name": "7% Nabil Debenture 2089",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "NADEP": {
     "name": "Nadep Laghubittiya bittya Sanstha Ltd.",
     "sector": "Microfinance",
