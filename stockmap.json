@@ -789,6 +789,11 @@
     "sector": "Microfinance",
     "internalSector": "Microfinance Index"
   },
+  "JHAPA": {
+    "name": "Jhapa Energy Limited",
+    "sector": "Others",
+    "internalSector": "Others Index"
+  },
   "JOSHI": {
     "name": "Joshi Hydropower Development Company Ltd",
     "sector": "Hydro Power",
