@@ -2169,6 +2169,11 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
+  "SAIL": {
+    "name": "Shreenagar Agritech Industries Limited",
+    "sector": "Manufacturing And Processing",
+    "internalSector": "Manufacturing And Pr."
+  },
   "SHLB": {
     "name": "Shrijanshil Laghubitta Bittiya Sanstha Limited",
     "sector": "Microfinance",
