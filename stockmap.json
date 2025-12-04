@@ -1884,6 +1884,11 @@
     "sector": "Mutual Fund",
     "internalSector": "Mutual Fund"
   },
+  "RBBF40": {
+    "name": "RBB Focus 40",
+    "sector": "Mutual Fund",
+    "internalSector": "Mutual Fund"
+  },
   "RSY": {
     "name": "Reliable Samriddhi Yojana",
     "sector": "Life Insurance",
