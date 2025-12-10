@@ -2399,6 +2399,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "SYPNL": {
+    "name": "SY Panel Nepal Limited",
+    "sector": "Manufacturing And Processing",
+    "internalSector": "Manufacturing And Pr."
+  },
   "SPDL": {
     "name": "Synergy Power Development Ltd.",
     "sector": "Hydro Power",
