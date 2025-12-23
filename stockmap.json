@@ -534,8 +534,18 @@
     "sector": "Finance",
     "internalSector": "Finance Index"
   },
+  "GBLBS": {
+    "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+    "sector": "Microfinance",
+    "internalSector": "Microfinance Index"
+  },
   "PDBLPO": {
     "name": "Paschimanchal Bikash Bank Ltd. Promoter Share",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
+  },
+  "GBLBSP": {
+    "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd. Promoter Share",
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
