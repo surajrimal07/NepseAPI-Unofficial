@@ -114,13 +114,13 @@
     "sector": "Hotels And Tourism",
     "internalSector": "Hotels And Tourism"
   },
-  "BOKD86": {
-    "name": "8.5% BOK Debenture 2086",
+  "BOKD86KA": {
+    "name": "BOK Debenture 2086 \"KA\"",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "BOKD86KA": {
-    "name": "BOK Debenture 2086 \"KA\"",
+  "BOKD86": {
+    "name": "8.5% BOK Debenture 2086",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -389,6 +389,11 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
+  "EBLD86": {
+    "name": "Everest Bank Limited",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "EBLD85": {
     "name": "10.50% Everest Bank Limited Debenture 2085",
     "sector": "Commercial Banks",
@@ -396,11 +401,6 @@
   },
   "EBLEB89": {
     "name": "Everest Bank Limited Energy Bond, 2089",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
-  "EBLD86": {
-    "name": "Everest Bank Limited",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -459,13 +459,13 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
-  "GSY": {
-    "name": "Garima Samriddhi Yojana",
+  "GBBD85": {
+    "name": "Garima Debenture, 2085",
     "sector": "Development Banks",
     "internalSector": "Development Bank Ind."
   },
-  "GBBD85": {
-    "name": "Garima Debenture, 2085",
+  "GSY": {
+    "name": "Garima Samriddhi Yojana",
     "sector": "Development Banks",
     "internalSector": "Development Bank Ind."
   },
@@ -899,13 +899,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KBLD90": {
-    "name": "10% KBL Debenture 2090",
+  "KSY": {
+    "name": "Kumari Sabal Yojana",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KSY": {
-    "name": "Kumari Sabal Yojana",
+  "KBLD90": {
+    "name": "10% KBL Debenture 2090",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1259,13 +1259,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NBF3": {
-    "name": "Nabil Balanced Fund-3",
+  "NBLD85": {
+    "name": "Nabil Debenture 2085",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NBLD85": {
-    "name": "Nabil Debenture 2085",
+  "NBF3": {
+    "name": "Nabil Balanced Fund-3",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1899,13 +1899,13 @@
     "sector": "Mutual Fund",
     "internalSector": "Mutual Fund"
   },
-  "RSY": {
-    "name": "Reliable Samriddhi Yojana",
+  "RNLI": {
+    "name": "Reliable Nepal Life Insurance Limited",
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
-  "RNLI": {
-    "name": "Reliable Nepal Life Insurance Limited",
+  "RSY": {
+    "name": "Reliable Samriddhi Yojana",
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
