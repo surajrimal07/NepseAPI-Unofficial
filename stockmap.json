@@ -459,13 +459,13 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
-  "GBBD85": {
-    "name": "Garima Debenture, 2085",
+  "GSY": {
+    "name": "Garima Samriddhi Yojana",
     "sector": "Development Banks",
     "internalSector": "Development Bank Ind."
   },
-  "GSY": {
-    "name": "Garima Samriddhi Yojana",
+  "GBBD85": {
+    "name": "Garima Debenture, 2085",
     "sector": "Development Banks",
     "internalSector": "Development Bank Ind."
   },
@@ -869,13 +869,13 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
-  "KEF": {
-    "name": "Kumari Equity Fund",
+  "KBLD86": {
+    "name": "10.25% KBL Debenture 2086",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KBLD86": {
-    "name": "10.25% KBL Debenture 2086",
+  "KEF": {
+    "name": "Kumari Equity Fund",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -899,13 +899,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KSY": {
-    "name": "Kumari Sabal Yojana",
+  "KBLD90": {
+    "name": "10% KBL Debenture 2090",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KBLD90": {
-    "name": "10% KBL Debenture 2090",
+  "KSY": {
+    "name": "Kumari Sabal Yojana",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -949,13 +949,13 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
-  "SFMF": {
-    "name": "Sunrise First Mutual Fund",
+  "LBLD86": {
+    "name": "10% Laxmi Bank Debenture 2086",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "LBLD86": {
-    "name": "10% Laxmi Bank Debenture 2086",
+  "SFMF": {
+    "name": "Sunrise First Mutual Fund",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1259,13 +1259,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NBLD85": {
-    "name": "Nabil Debenture 2085",
+  "NBF3": {
+    "name": "Nabil Balanced Fund-3",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NBF3": {
-    "name": "Nabil Balanced Fund-3",
+  "NBLD85": {
+    "name": "Nabil Debenture 2085",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1499,13 +1499,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SBID89": {
-    "name": "9% Nepal SBI Bank Rinpatra 2089",
+  "SBID2090": {
+    "name": "7% Nepal SBI Bank Debenture 2090",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SBID2090": {
-    "name": "7% Nepal SBI Bank Debenture 2090",
+  "SBID89": {
+    "name": "9% Nepal SBI Bank Rinpatra 2089",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1564,13 +1564,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NICAD2091": {
-    "name": "7% NIC ASIA Debenture 2091",
+  "NICGF2": {
+    "name": "NIC ASIA Growth Fund-2",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NICGF2": {
-    "name": "NIC ASIA Growth Fund-2",
+  "NICAD2091": {
+    "name": "7% NIC ASIA Debenture 2091",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1814,13 +1814,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "PBD84": {
-    "name": "10.15% Prime Debenture 2084",
+  "PBD85": {
+    "name": "8.75 % Prime Debenture 2085",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "PBD85": {
-    "name": "8.75 % Prime Debenture 2085",
+  "PBD84": {
+    "name": "10.15% Prime Debenture 2084",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1899,13 +1899,13 @@
     "sector": "Mutual Fund",
     "internalSector": "Mutual Fund"
   },
-  "RNLI": {
-    "name": "Reliable Nepal Life Insurance Limited",
+  "RSY": {
+    "name": "Reliable Samriddhi Yojana",
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
-  "RSY": {
-    "name": "Reliable Samriddhi Yojana",
+  "RNLI": {
+    "name": "Reliable Nepal Life Insurance Limited",
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
@@ -2206,11 +2206,6 @@
   },
   "SBLD84": {
     "name": "8.5% SBL Debenture 2084",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
-  "SBLD2082": {
-    "name": "10.50% SBL Debenture 2082",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
