@@ -264,6 +264,11 @@
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
+  "CSY": {
+    "name": "Citizens Santulit Yojana",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "C30MF": {
     "name": "Citizens Super 30 Mutual Fund",
     "sector": "Commercial Banks",
