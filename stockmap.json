@@ -1924,6 +1924,11 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
+  "RSML": {
+    "name": "Reliance Spinning Mills Limited",
+    "sector": "Manufacturing And Processing",
+    "internalSector": "Manufacturing And Pr."
+  },
   "RIDI": {
     "name": "Ridi Power Company Limited",
     "sector": "Hydro Power",
@@ -1973,6 +1978,11 @@
     "name": "Sahas Urja Limited",
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
+  },
+  "SABBL": {
+    "name": "Salapa Bikas Bank Limited",
+    "sector": "Development Banks",
+    "internalSector": "Development Bank Ind."
   },
   "STC": {
     "name": "Salt Trading Corporation",
