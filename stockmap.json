@@ -709,6 +709,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "HFIN": {
+    "name": "Hotel Forest Inn Limited",
+    "sector": "Hotels And Tourism",
+    "internalSector": "Hotels And Tourism"
+  },
   "HIDCL": {
     "name": "Hydorelectricity Investment and Development Company Ltd",
     "sector": "Investment",
