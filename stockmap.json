@@ -2304,6 +2304,11 @@
     "sector": "Hotels And Tourism",
     "internalSector": "Hotels And Tourism"
   },
+  "SOHL": {
+    "name": "Solu Hydropower Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "SONA": {
     "name": "Sonapur Minerals And Oil Limited",
     "sector": "Manufacturing And Processing",
