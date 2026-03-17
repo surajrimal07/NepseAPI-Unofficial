@@ -1464,6 +1464,11 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
+  "NSY": {
+    "name": "Nepal Life Samriddhi Lagani Yojana",
+    "sector": "Life Insurance",
+    "internalSector": "Life Insurance"
+  },
   "NLO": {
     "name": "Nepal Lube Oil Limited",
     "sector": "Manufacturing And Processing",
