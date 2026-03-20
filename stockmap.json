@@ -154,6 +154,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "BJHL": {
+    "name": "Bhujung Hydropower Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "BHCL": {
     "name": "Bikash Hydropower Company Limited",
     "sector": "Hydro Power",
