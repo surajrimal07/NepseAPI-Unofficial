@@ -2359,6 +2359,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "SKHL": {
+    "name": "Super Khudi Hydropower Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "SMHL": {
     "name": "Super Madi Hydropower Limited",
     "sector": "Hydro Power",
