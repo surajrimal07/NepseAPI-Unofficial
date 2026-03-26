@@ -1944,6 +1944,11 @@
     "sector": "Manufacturing And Processing",
     "internalSector": "Manufacturing And Pr."
   },
+  "RLEL": {
+    "name": "Ridge Line Energy Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "RIDI": {
     "name": "Ridi Power Company Limited",
     "sector": "Hydro Power",
