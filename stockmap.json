@@ -2399,6 +2399,11 @@
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
+  "SKHEL": {
+    "name": "Suryakunda Hydro Electric Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "SWMFPO": {
     "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited Promoter",
     "sector": "Promoter Share",
