@@ -1294,6 +1294,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "NABILPNP": {
+    "name": "Nabil 8% Perpetual Non Cumulative Preference Share",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "NADEP": {
     "name": "Nadep Laghubittiya bittya Sanstha Ltd.",
     "sector": "Microfinance",
