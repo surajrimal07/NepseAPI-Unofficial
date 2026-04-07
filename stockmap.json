@@ -759,6 +759,11 @@
     "sector": "Finance",
     "internalSector": "Finance Index"
   },
+  "ICFCD89": {
+    "name": "8% ICFC Finance Limited Debenture 2089",
+    "sector": "Finance",
+    "internalSector": "Finance Index"
+  },
   "IGIPO": {
     "name": "IGI Prudential insurance Limited Promoter Share",
     "sector": "Promoter Share",
@@ -876,6 +881,11 @@
   },
   "KSBBLD87": {
     "name": "9% Kamana Sewa Bikas Bank Limited Debenture 2087",
+    "sector": "Development Banks",
+    "internalSector": "Development Bank Ind."
+  },
+  "KSBBLPNP": {
+    "name": "KSBBL 9% Perpetual Non Cumulative Preference Share",
     "sector": "Development Banks",
     "internalSector": "Development Bank Ind."
   },
