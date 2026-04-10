@@ -1749,6 +1749,11 @@
     "sector": "Hotels And Tourism",
     "internalSector": "Hotels And Tourism"
   },
+  "PCIL": {
+    "name": "Palpa Cement Industries Limited",
+    "sector": "Manufacturing And Processing",
+    "internalSector": "Manufacturing And Pr."
+  },
   "PMHPL": {
     "name": "Panchakanya Mai Hydropower Ltd",
     "sector": "Hydro Power",
@@ -2198,6 +2203,11 @@
     "name": "Shikhar Insurance Co. Ltd. Promoter",
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
+  },
+  "SIPD": {
+    "name": "Shikhar power Development Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
   },
   "SHINED": {
     "name": "Shine Resunga Debenture",
