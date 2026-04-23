@@ -2299,6 +2299,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "SBLPNP": {
+    "name": "SBL 8.25% Perpetual Non Cumulative Preference Share",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "SBLD89": {
     "name": "10.75% SBL Debenture 2089",
     "sector": "Commercial Banks",
