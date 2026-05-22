@@ -2109,6 +2109,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "SANIMAPNP": {
+    "name": "8.25% Sanima Perpetual Non Cumulative Preference Share",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "SGIC": {
     "name": "Sanima GIC Insurance Limited",
     "sector": "Non Life Insurance",
