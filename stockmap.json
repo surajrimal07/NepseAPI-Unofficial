@@ -859,6 +859,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "KHPL": {
+    "name": "Kalinchock Hydropower Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "KDL": {
     "name": "Kalinchowk Darshan Limited",
     "sector": "Hotels And Tourism",
