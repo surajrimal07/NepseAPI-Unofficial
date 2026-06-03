@@ -1039,6 +1039,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "MBLPNP": {
+    "name": "8.25% Machhapuchchhre Perpetual Non Cumulative Preference Share",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "MBLD87": {
     "name": "8.5% Machhapuchchhre Debenture 2087",
     "sector": "Commercial Banks",
@@ -1696,6 +1701,11 @@
   },
   "NMBHF2": {
     "name": "NMB Hybrid Fund L- II",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
+  "NMBPNP": {
+    "name": "NMB Perpetual Non Cumulative Preference Share-2081/82-8.25%",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
