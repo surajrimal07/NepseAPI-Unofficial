@@ -59,6 +59,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "APHL": {
+    "name": "Appolo Hydropower Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "AKPL": {
     "name": "Arun Kabeli Power Ltd.",
     "sector": "Hydro Power",
