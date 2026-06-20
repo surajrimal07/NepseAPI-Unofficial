@@ -2514,6 +2514,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "TPKHL": {
+    "name": "Taksar Pikhuwa Khola Hydropower Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "TRH": {
     "name": "Taragaon Regency Hotel Limited",
     "sector": "Hotels And Tourism",
@@ -2648,5 +2653,10 @@
     "name": "Wean Nepal Laghubitta Bittiya Sanstha Limited Promoter Share",
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
+  },
+  "YMHL": {
+    "name": "Yambaling Hydropower Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
   }
 }
