@@ -2359,6 +2359,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "SNORL": {
+    "name": "Snow Rivers Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "SHL": {
     "name": "Soaltee Hotel Limited",
     "sector": "Hotels And Tourism",
