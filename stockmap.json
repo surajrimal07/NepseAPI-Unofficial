@@ -849,6 +849,11 @@
     "sector": "Development Banks",
     "internalSector": "Development Bank Ind."
   },
+  "KAHL": {
+    "name": "Kalanga Hydro Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "KMCDB": {
     "name": "Kalika Laghubitta Bittiya Sanstha Ltd",
     "sector": "Microfinance",
@@ -2093,6 +2098,11 @@
     "name": "Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited Promoter",
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
+  },
+  "SGHL": {
+    "name": "Sanigad Hydro Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
   },
   "SNMAPO": {
     "name": "Sanima Bank Ltd. Promoter Share",
