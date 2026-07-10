@@ -1784,16 +1784,6 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
-  "PFL": {
-    "name": "Pokhara Finance Ltd.",
-    "sector": "Finance",
-    "internalSector": "Finance Index"
-  },
-  "PFLPO": {
-    "name": "Pokhara Finance Company Limited Promoter Share",
-    "sector": "Promoter Share",
-    "internalSector": "Promoter Share"
-  },
   "PRVU": {
     "name": "Prabhu  Bank Limited",
     "sector": "Commercial Banks",
@@ -2061,16 +2051,6 @@
   },
   "SMPDAP": {
     "name": "Sampada Laghubitta Bittiya Sanstha Limited Promoter",
-    "sector": "Promoter Share",
-    "internalSector": "Promoter Share"
-  },
-  "SFCL": {
-    "name": "Samriddhi Finance Company Limited",
-    "sector": "Finance",
-    "internalSector": "Finance Index"
-  },
-  "SFCLP": {
-    "name": "Samriddhi Finance Company Limited Promoter Share",
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
