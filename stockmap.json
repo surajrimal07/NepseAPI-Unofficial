@@ -419,6 +419,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "ECL": {
+    "name": "Everest Colour Limited",
+    "sector": "Manufacturing And Processing",
+    "internalSector": "Manufacturing And Pr."
+  },
   "EDBLPO": {
     "name": "Excel Development Bank Ltd. Promoter Share",
     "sector": "Promoter Share",
