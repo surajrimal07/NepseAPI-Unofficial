@@ -924,16 +924,6 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KBLD89": {
-    "name": "11% KBL Debenture 2089",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
-  "KDBY": {
-    "name": "Kumari Dhanabriddhi Yojana",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
   "KBLD90": {
     "name": "10% KBL Debenture 2090",
     "sector": "Commercial Banks",
@@ -941,6 +931,16 @@
   },
   "KSY": {
     "name": "Kumari Sabal Yojana",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
+  "KBLD89": {
+    "name": "11% KBL Debenture 2089",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
+  "KDBY": {
+    "name": "Kumari Dhanabriddhi Yojana",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -2109,13 +2109,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SBD89": {
-    "name": "10.25% Sanima Debenture 2089",
+  "SANIMAPNP": {
+    "name": "8.25% Sanima Perpetual Non Cumulative Preference Share",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SANIMAPNP": {
-    "name": "8.25% Sanima Perpetual Non Cumulative Preference Share",
+  "SBD89": {
+    "name": "10.25% Sanima Debenture 2089",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -2299,16 +2299,6 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
-  "SBLD2091": {
-    "name": "7.25% SBL Debenture 2091",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
-  "SBLPNP": {
-    "name": "SBL 8.25% Perpetual Non Cumulative Preference Share",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
   "SBLD89": {
     "name": "10.75% SBL Debenture 2089",
     "sector": "Commercial Banks",
@@ -2316,6 +2306,21 @@
   },
   "SIGS3": {
     "name": "Siddhartha Investment Growth Scheme 3",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
+  "SBLD2091": {
+    "name": "7.25% SBL Debenture 2091",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
+  "SEF2": {
+    "name": "Siddhartha Equity Fund 2",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
+  "SBLPNP": {
+    "name": "SBL 8.25% Perpetual Non Cumulative Preference Share",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
