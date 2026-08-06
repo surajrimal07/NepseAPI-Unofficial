@@ -974,6 +974,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "LSH12": {
+    "name": "LS Horizon 12",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "LSL": {
     "name": "Laxmi Sunrise Bank Limited",
     "sector": "Commercial Banks",
@@ -2111,6 +2116,11 @@
   },
   "SANIMAPNP": {
     "name": "8.25% Sanima Perpetual Non Cumulative Preference Share",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
+  "SAEF2": {
+    "name": "Sanima Equity Fund-2",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
