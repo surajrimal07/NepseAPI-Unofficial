@@ -1954,6 +1954,11 @@
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
+  "RSY2": {
+    "name": "Reliable Samriddhi Yojana -2",
+    "sector": "Life Insurance",
+    "internalSector": "Life Insurance"
+  },
   "RNLI": {
     "name": "Reliable Nepal Life Insurance Limited",
     "sector": "Life Insurance",
