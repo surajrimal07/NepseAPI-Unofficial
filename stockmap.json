@@ -1239,6 +1239,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "MEPDL": {
+    "name": "Mount Everest Power Development Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "MEN": {
     "name": "Mountain Energy Nepal Limited",
     "sector": "Hydro Power",
