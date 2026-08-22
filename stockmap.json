@@ -269,13 +269,13 @@
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
-  "CSY": {
-    "name": "Citizens Santulit Yojana",
+  "C30MF": {
+    "name": "Citizens Super 30 Mutual Fund",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "C30MF": {
-    "name": "Citizens Super 30 Mutual Fund",
+  "CSY": {
+    "name": "Citizens Santulit Yojana",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -334,15 +334,15 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
-  "CYCL": {
-    "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance",
-    "internalSector": "Microfinance Index"
-  },
   "CYCLP": {
     "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited Promoter",
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
+  },
+  "CYCL": {
+    "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
+    "sector": "Microfinance",
+    "internalSector": "Microfinance Index"
   },
   "DHEL": {
     "name": "Daramkhola Hydro Energy Limited",
@@ -644,11 +644,6 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "HBLD83": {
-    "name": "10% Himalayan Bank Debenture 2083",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
   "HBL": {
     "name": "Himalayan Bank Limited",
     "sector": "Commercial Banks",
@@ -879,6 +874,11 @@
     "sector": "Hotels And Tourism",
     "internalSector": "Hotels And Tourism"
   },
+  "KSBBLD87": {
+    "name": "9% Kamana Sewa Bikas Bank Limited Debenture 2087",
+    "sector": "Development Banks",
+    "internalSector": "Development Bank Ind."
+  },
   "KSBBLP": {
     "name": "Kamana Sewa Bikas Bank Limited Promoter Share",
     "sector": "Promoter Share",
@@ -886,11 +886,6 @@
   },
   "KSBBL": {
     "name": "Kamana Sewa Bikas Bank Limited",
-    "sector": "Development Banks",
-    "internalSector": "Development Bank Ind."
-  },
-  "KSBBLD87": {
-    "name": "9% Kamana Sewa Bikas Bank Limited Debenture 2087",
     "sector": "Development Banks",
     "internalSector": "Development Bank Ind."
   },
@@ -904,13 +899,13 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
-  "KBLD86": {
-    "name": "10.25% KBL Debenture 2086",
+  "KEF": {
+    "name": "Kumari Equity Fund",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KEF": {
-    "name": "Kumari Equity Fund",
+  "KBLD86": {
+    "name": "10.25% KBL Debenture 2086",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -989,13 +984,13 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
-  "LBLD86": {
-    "name": "10% Laxmi Bank Debenture 2086",
+  "SFMF": {
+    "name": "Sunrise First Mutual Fund",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SFMF": {
-    "name": "Sunrise First Mutual Fund",
+  "LBLD86": {
+    "name": "10% Laxmi Bank Debenture 2086",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1819,6 +1814,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "PSF": {
+    "name": "Prabhu Select Fund",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "PBLD84": {
     "name": "10% Prabhu Bank Debenture 2084 ",
     "sector": "Commercial Banks",
@@ -1826,11 +1826,6 @@
   },
   "PBLD87": {
     "name": "8.5% Prabhu Bank Debenture 2087",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
-  "PSF": {
-    "name": "Prabhu Select Fund",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1874,13 +1869,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "PBD84": {
-    "name": "10.15% Prime Debenture 2084",
+  "PBD88": {
+    "name": "10% Prime Debenture 2088",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "PBD88": {
-    "name": "10% Prime Debenture 2088",
+  "PBD84": {
+    "name": "10.15% Prime Debenture 2084",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -2579,15 +2574,15 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
-  "UNLBP": {
-    "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited Promoter",
-    "sector": "Promoter Share",
-    "internalSector": "Promoter Share"
-  },
   "UNLB": {
     "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited",
     "sector": "Microfinance",
     "internalSector": "Microfinance Index"
+  },
+  "UNLBP": {
+    "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited Promoter",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
   },
   "UAILPO": {
     "name": "United Ajod Insurance Limited Promoter Share",
