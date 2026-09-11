@@ -99,15 +99,15 @@
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
-  "AVYANP": {
-    "name": "Aviyan Laghubitta Bittiya Sanstha Limited Promoter",
-    "sector": "Promoter Share",
-    "internalSector": "Promoter Share"
-  },
   "AVYAN": {
     "name": "Aviyan Laghubitta Bittiya Sanstha Limited",
     "sector": "Microfinance",
     "internalSector": "Microfinance Index"
+  },
+  "AVYANP": {
+    "name": "Aviyan Laghubitta Bittiya Sanstha Limited Promoter",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
   },
   "BHL": {
     "name": "Balephi Hydropower Limited",
@@ -929,13 +929,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KSY": {
-    "name": "Kumari Sabal Yojana",
+  "KBLD90": {
+    "name": "10% KBL Debenture 2090",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KBLD90": {
-    "name": "10% KBL Debenture 2090",
+  "KSY": {
+    "name": "Kumari Sabal Yojana",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1314,13 +1314,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NBLD85": {
-    "name": "Nabil Debenture 2085",
+  "NBF3": {
+    "name": "Nabil Balanced Fund-3",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NBF3": {
-    "name": "Nabil Balanced Fund-3",
+  "NBLD85": {
+    "name": "Nabil Debenture 2085",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1724,11 +1724,6 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NMBUR93/94": {
-    "name": "NMB Energy Bond 4% - 2093/94 ",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
   "NMBD87/88": {
     "name": "NMB Debenture 8.50% - 2087/88",
     "sector": "Commercial Banks",
@@ -1736,6 +1731,11 @@
   },
   "NMBEB92/93": {
     "name": "NMB Energy Bond 4% - 2092/93",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
+  "NMBUR93/94": {
+    "name": "NMB Energy Bond 4% - 2093/94 ",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1869,13 +1869,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "PBD84": {
-    "name": "10.15% Prime Debenture 2084",
+  "PBD85": {
+    "name": "8.75 % Prime Debenture 2085",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "PBD85": {
-    "name": "8.75 % Prime Debenture 2085",
+  "PBD84": {
+    "name": "10.15% Prime Debenture 2084",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -2306,11 +2306,6 @@
   },
   "SBLD84": {
     "name": "8.5% SBL Debenture 2084",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
-  "SBLD83": {
-    "name": "10.25% SBL Debenture 2083",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
