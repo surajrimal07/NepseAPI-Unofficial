@@ -2134,13 +2134,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SAEF2": {
-    "name": "Sanima Equity Fund-2",
+  "SANIMAPNP": {
+    "name": "8.25% Sanima Perpetual Non Cumulative Preference Share",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SANIMAPNP": {
-    "name": "8.25% Sanima Perpetual Non Cumulative Preference Share",
+  "SAEF2": {
+    "name": "Sanima Equity Fund-2",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -2344,13 +2344,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SBLPNP": {
-    "name": "SBL 8.25% Perpetual Non Cumulative Preference Share",
+  "SEF2": {
+    "name": "Siddhartha Equity Fund 2",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SEF2": {
-    "name": "Siddhartha Equity Fund 2",
+  "SBLPNP": {
+    "name": "SBL 8.25% Perpetual Non Cumulative Preference Share",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
