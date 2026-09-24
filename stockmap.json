@@ -984,6 +984,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "LSD92": {
+    "name": "7% Laxmi Sunrise Debenture 2092",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "LSL": {
     "name": "Laxmi Sunrise Bank Limited",
     "sector": "Commercial Banks",
