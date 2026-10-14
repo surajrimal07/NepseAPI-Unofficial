@@ -139,6 +139,11 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
+  "BENH": {
+    "name": "Beni Hydropower Project Limited",
+    "sector": "Hydro Power",
+    "internalSector": "HydroPower Index"
+  },
   "BFC": {
     "name": "Best Finance Company Ltd.",
     "sector": "Finance",
