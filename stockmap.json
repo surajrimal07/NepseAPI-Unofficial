@@ -1064,13 +1064,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "MBLEF": {
-    "name": "MBL Equity Fund",
+  "MBLPNP": {
+    "name": "8.25% Machhapuchchhre Perpetual Non Cumulative Preference Share",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "MBLPNP": {
-    "name": "8.25% Machhapuchchhre Perpetual Non Cumulative Preference Share",
+  "MBLEF": {
+    "name": "MBL Equity Fund",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
