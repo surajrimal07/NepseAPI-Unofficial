@@ -1644,6 +1644,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "NICEF": {
+    "name": "NIC ASIA Equity Opportunity Fund",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "NICA": {
     "name": "NIC Asia Bank Ltd.",
     "sector": "Commercial Banks",
