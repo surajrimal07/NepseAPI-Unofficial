@@ -374,6 +374,11 @@
     "sector": "Microfinance",
     "internalSector": "Microfinance Index"
   },
+  "DLBSP": {
+    "name": "Dhaulagiri Laghubitta Bittiya Sanstha Limited Promoter",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
+  },
   "DHPL": {
     "name": "Dibyashwori Hydropower Ltd.",
     "sector": "Hydro Power",
@@ -618,6 +623,11 @@
     "name": "Gurans Laghubitta Bittiya Sanstha Limited",
     "sector": "Microfinance",
     "internalSector": "Microfinance Index"
+  },
+  "GLBSLP": {
+    "name": "Gurans Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
   },
   "GUFL": {
     "name": "Gurkhas Finance Ltd.",
